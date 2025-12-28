@@ -23,7 +23,7 @@ body {
   margin-bottom: 20px;
   border: none;
   outline: none;
-  width: 100%;
+  width: 88%;
 }
 
 .buttons {
@@ -71,3 +71,4 @@ button:active {
   hieght: 70px;
   widht:300px;
 }
+
